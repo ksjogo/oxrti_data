@@ -1,2 +1,4 @@
 Coins/Piprahwa-200mm-B_7360.btf.zip filter=lfs diff=lfs merge=lfs -text
 Antikythera_Mechanism/AK1A_LRGB.ptm filter=lfs diff=lfs merge=lfs -text
+Coins/Piprahwa-200mm-B_7360.ptm filter=lfs diff=lfs merge=lfs -text
+Warrior/Warrior_RGB.ptm filter=lfs diff=lfs merge=lfs -text
